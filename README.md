@@ -5,5 +5,5 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 -----
 
-Eines meiner ersten Tutorial von Udemy.
-Das Tutorial findest du [hier](https://www.udemy.com/the-complete-web-developer-in-2018).
+Eines meiner ersten Tutorial für react.
+Das Tutorial findest du [hier, link zu Udemy](https://www.udemy.com/the-complete-web-developer-in-2018).
